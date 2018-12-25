@@ -2,7 +2,7 @@
 //  MovieTimeUITests.swift
 //  MovieTimeUITests
 //
-//  Created by vinaya krishna on 07/12/18.
+//  Created by MovieTime on 07/12/18.
 //  Copyright © 2018 sdsuios. All rights reserved.
 //
 
