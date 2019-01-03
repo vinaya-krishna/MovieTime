@@ -10,6 +10,8 @@ This application lists all the latest movies and allows user to search and read 
 
 ---
 
+## Screenshots
+
 ![Screenshot 1](screenshots/1.png?raw=true)
 ![Screenshot 2](screenshots/2.png?raw=true)
 ![Screenshot 3](screenshots/3.png?raw=true)
@@ -21,7 +23,7 @@ This application lists all the latest movies and allows user to search and read 
 
 ---
 
-##Dependencies
+## Dependencies
 
 - Firebase
 - SVProgressHUD
