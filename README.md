@@ -1,5 +1,5 @@
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
+![Screenshot 1](screenshots/1.png?raw=true)
+![Screenshot 2](screenshots/2.png?raw=true)
 
 This application lists all the latest movies and allows user to search and read about the movie, actors and crew members. It allows the user to add movies to his watchlist and also he could plan to watch movie and create/delete a remainder in iPhone’s calendar application.
 It also allows the user to read reviews given by other users on a particular movie and also post his review on that movie.
